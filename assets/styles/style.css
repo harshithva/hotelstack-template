@@ -1441,7 +1441,7 @@ input:required:invalid {
 }
 
 .logotype {
-  width: 142px;
+  width: 180px;
 }
 @media only screen and (max-width: 768px) {
   .logotype {
