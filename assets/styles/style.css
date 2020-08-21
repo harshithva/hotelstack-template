@@ -1566,6 +1566,7 @@ input:required:invalid {
     display: none;
   }
 }
+/* white */
 .navbar .nav__link {
   color:white;
   display: block;
